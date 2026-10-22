@@ -1,0 +1,10 @@
+"algorithm","input_type","mean_runtime"
+"Bubble Sort","random",0.0815246316675
+"Bubble Sort","sorted",0.000111745
+"Bubble Sort","reverse",0.10086954
+"Insertion Sort","random",0.035647615
+"Insertion Sort","sorted",0.000156262500833333
+"Insertion Sort","reverse",0.0706707033316667
+"Merge Sort","random",0.00215426333416667
+"Merge Sort","sorted",0.0019281691675
+"Merge Sort","reverse",0.00160262333416667

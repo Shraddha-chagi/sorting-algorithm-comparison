@@ -1,8 +1,3 @@
-
-# ============================================================
-# PROJECT: Statistical Comparison of Sorting Algorithms
-# ============================================================
-
 #Load required libraries
 library(dplyr)
 library(ggplot2)
@@ -144,7 +139,6 @@ ci_results <- ci_data %>%
     lower_95_ms = lower_95 * 1000,
     upper_95_ms = upper_95 * 1000
   )
-
 print(ci_results)
 
 write.csv(
